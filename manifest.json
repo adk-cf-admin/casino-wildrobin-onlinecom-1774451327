@@ -1,0 +1,19 @@
+{
+  "name": "WildRobin Casino",
+  "short_name": "WildRobin Casino",
+  "theme_color": "",
+  "background_color": "#201109",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774433461-favicon-66.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

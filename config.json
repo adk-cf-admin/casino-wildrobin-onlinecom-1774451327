@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#201109",
+            "lang-select-color": "#222829",
+            "bg-light": "#201109",
+            "welcome-bonus-bg": "#201109",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#351B0F",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#B08152",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#B08152",
+            "yellow-button": "#308F0B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#B08152",
+            "casino-cards": "#201109",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#B08152",
+            "providers-back": "#201109",
+            "faq-label": "#201109",
+            "bg-footer": "#201109",
+            "copyright": "#e7e7d5",
+            "starColor": "#B08152",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5066"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5068",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "WildRobin Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5069",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "WildRobin Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "WildRobin Casino",
+                    "title": "WildRobin Casino: welcome package up to A$5,500, pokies, live casino, and betting",
+                    "description": "WildRobin Casino combines pokies, live casino, jackpots, sportsbook, tournaments, challenges, and a VIP Club. Enjoy a welcome package up to A$5,500 + 200 FS, cashback offers, weekly reloads, and a broad mix of games and betting markets.",
+                    "canonical": "casino-wildrobin-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5070",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-wildrobin-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5071"
+                },
+                "hero": {
+                    "title": "WildRobin — up to A$5,500 bonus, live casino, sportsbook, and VIP Club",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5072",
+                    "imageSizeModifier": 7,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5073",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of games, bets, and live sections",
+                        "Welcome package up to A$5,500 + 200 FS",
+                        "Weekly bonuses, cashback, and reload offers",
+                        "VIP club with layered exclusive benefits",
+                        "Challenges, Coins, and integrated Bonus Shop",
+                        "24\/7 Live Chat and multilingual interface",
+                        "Pokies, roulette, sportsbook, and live games"
+                    ],
+                    "advantagesAfterText": "Our casino brings together a broad gaming lobby, a live casino area, and a full sportsbook, making it easy to move between pokies, table games, live tables, and sports betting. The experience gains extra depth through Challenges, tournaments, the VIP Club, and a reward shop where Coins can be exchanged for free spins, bonus money, and free bets.",
+                    "knowMore": "Know more",
+                    "appTitle": "WildRobin Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5074",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "WildRobin Casino App",
+                    "mobileGooglePlayImageTitle": "WildRobin Casino App",
+                    "mobileIosImageTitle": "WildRobin Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About WildRobin Casino",
+                        "description1": "What makes our casino stand out is that rewards are not limited to a single entry bonus. We combine a welcome package, cashback formats, weekly reloads, tournament prize pools, and sportsbook boosts so that value and activity continue across multiple sections of the platform.",
+                        "items": [
+                            "Welcome Package up to A$5,500",
+                            "Tournaments up to A$7,500,000",
+                            "Live Cashback up to A$300"
+                        ],
+                        "description2": "WildRobin Casino is a platform where we combine casino, live casino, and sportsbook features inside one connected environment. Here, players can move from pokies to live roulette, then to game shows, and later switch to sports betting markets without leaving the same platform. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5075",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Our gaming lobby includes thousands of titles, covering new releases, popular slots, Megaways, instant games, table games, and jackpots. Inside the live section, we focus on roulette, blackjack, baccarat and dice, poker, and hosted game shows with real presenters. The sportsbook adds another layer with prematch betting, live betting, virtual sports, and markets on major sports. This means we support both classic casino-style play and a hybrid routine where users mix spins, live tables, and sports coupons. Entertainment at our casino goes far beyond the base game library because we also run tournaments, recurring challenges, and a Coins-based reward system. Coins are earned through deposits and bets, then spent in the Shop on bonus money, free spins, and free bets. That system gives the overall experience more depth and adds a strong sense of progression. New players can start with a welcome package worth up to A$5,500 and 200 free spins across three bonus stages, while sportsbook users can choose a first deposit bonus of 100% up to A$150. Once the entry stage is complete, activity continues through weekly reloads, weekend reloads, cashback offers, and live cashback. Players who enjoy recurring tasks can focus on weekly casino challenges and weekly sports challenges to collect even more Coins. For those who prefer tailored conditions, our VIP Club introduces different levels, higher withdrawal limits, personalised offers, and a personal VIP manager on the upper levels. Live entertainment is another major highlight, where classic tables are mixed with show-style titles such as Money Time, Mega Wheel, and Sweet Bonanza Candyland. One of the defining features of WildRobin Casino is that it does not rely on a single strong area. Instead, it builds its identity through the combination of pokies, live entertainment, jackpots, sportsbook content, and a layered bonus ecosystem. Because of that, the platform feels like a broad gaming hub where users can choose their own rhythm, format, and level of involvement."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "WildRobin Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Rules of Access, Restrictions, and Responsible Play\n<\/h3>\n<p>\nAccess to WildRobin Casino starts with account registration and confirmation that the player is at least 18 years old. We treat every account as a personal gaming profile, so all information entered during registration must be accurate and current. Until verification is fully completed, restrictions may apply to deposits and withdrawals. This means that some financial actions can remain temporarily limited until documents are reviewed. When visiting our casino, players are expected to use only their own payment details and their own identity information. We also expect full compliance with bonus terms, because participation in the Welcome Package, reload offers, and cashback promotions is connected to specific conditions. For example, active bonus play requires stake control, and the welcome package applies a maximum bet of A$7.50 while a casino bonus is active. We also assume that one player uses one account, and any attempt to bypass internal controls, misuse promotions, or distort personal information goes against platform rules. Transparency of payment behaviour matters to us, which is why AML and KYC checks remain part of standard procedures. If additional checks of identity, address, or payment method are required, the documents should be provided in the normal review flow. It is also important to understand that a withdrawal request made in conflict with bonus rules may affect promotion eligibility. At the same time, our platform follows the principle of responsible gaming. Play should remain entertainment, not a way to recover financial losses. Players should define a comfortable budget, time frame, and session rhythm in advance. If gaming stops feeling controlled, the best step is to contact support and use the available internal self-limiting procedures. Breaks, self-control, and a calm approach are a basic part of a safer experience at WildRobin Casino.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess Conditions\n<\/h4>\n<ul>\n            <li>• 18+ access only, with accurate registration details, possible verification checks, one account per player, and payment activity linked to personal methods only.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRestrictions and Prohibited Actions\n<\/h4>\n<ul>\n            <li>• Misstated identity data, bonus abuse, multi-accounting, use of third-party payment details, and attempts to bypass platform rules are not accepted.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Gaming Principles\n<\/h4>\n<ul>\n            <li>• Set limits in advance, keep play within a defined budget and time frame, avoid chasing losses, and contact support if your gaming routine stops feeling controlled.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Licensing, Data Security, Encryption, and Privacy\n<\/h3>\n<p>\nThe compliance structure at WildRobin Casino is built around account security, age-restricted access, AML procedures, and user-facing policies presented through dedicated sections such as Terms and Conditions, Privacy Notice, Responsible Gaming, and Cookie Notice.\n<\/p>\n<br>\n<p>\nOur data protection approach relies on SSL encryption across the casino, live casino, promotions, and sportsbook environment. This creates a protected connection layer for login activity, gameplay, and transaction-related actions.\n<\/p>\n<br>\n<p>\nAnother core layer of protection is AML and KYC control. WildRobin states that Customer Due Diligence may be requested when specific compliance triggers are reached, which means identity, address, and payment method checks can become part of the review flow before unrestricted financial activity is available.\n<\/p>\n<br>\n<p>\nPrivacy management is separated into clear operational sections. Privacy and cookie information are accessible through the site footer and help centre, while cookie-related questions can be escalated to the Data Protection Officer and account-data corrections may involve the KYC or finance flow.\n<\/p>\n<br>\n<p>\nFrom a practical point of view, our protection model combines encrypted access, structured document verification, and clearly separated user policies. This creates a more understandable framework for privacy, account safety, and financial security inside WildRobin Casino.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCore Security Elements\n<\/h4>\n<ul>\n            <li>• SSL encryption, age restriction, AML review procedures, KYC checks, and dedicated policy sections form the basis of our security architecture.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPrivacy and Data Handling\n<\/h4>\n<ul>\n            <li>• Privacy Notice, Cookie Notice, footer access to policy pages, DPO contact for cookie matters, and structured account-data review channels help organize personal data management.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Deposits, Withdrawals, Processing Times, and Limits\n<\/h3>\n<p>\nThe WildRobin Casino payment area is built around several banking formats so that players can choose between classic cards, digital wallets, bank-based solutions, and, according to payment-cabinet reviews, selected crypto options. Officially visible payment partners include Mastercard, Maestro, Visa, V Pay, Apple Pay, Google Pay, and Interac e-Transfer. This already gives the cashier a modern and flexible feel. Deposits are generally fast, and WildRobin’s own description highlights e-wallets as one of the quickest solutions. Card transactions are also stable, although they may take longer because of bank-side processing. Withdrawals are closely connected to verification, which means some financial actions may stay unavailable until account checks are complete. Method compatibility also matters, because in many cases withdrawals are expected to use the same channel that was used for deposits. This becomes especially important during the first payout cycle and when bonuses are involved. Review-based payment breakdowns indicate that deposit thresholds often start from about A$16 on some methods, while popular wallet limits can extend to the equivalent of roughly A$8,175 per transaction. Minimum withdrawals often start at around A$16, although some crypto routes require a higher threshold. After approval, payout speed usually ranges from a few hours to 1–5 business days depending on the method. A standard account level is commonly associated with an approximate daily ceiling of A$818 and a monthly ceiling of around A$11,446, while VIP levels benefit from higher withdrawal limits. Bonus compatibility should also be checked before depositing, because some methods, including Skrill and Neteller, are excluded from selected welcome and sportsbook promotions. Overall, our payment flow combines fast deposits, mandatory security review, and more flexible withdrawal conditions for active and VIP players.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #B08152;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant or within minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–5 business days<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Apple Pay \/ Google Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually up to 24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually up to 24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 1 business day<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–5 business days<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Minutes to about 1 hour<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually up to 24 hours<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum Withdrawal and Standard Limits\n<\/h4>\n<ul>\n            <li>• Minimum withdrawal from about A$16 on selected methods; some crypto options may require around A$49 to A$98; standard daily limit around A$818; up to 3 pending withdrawals at once with a combined value near A$2,453; standard monthly limit around A$11,446; VIP levels receive higher limits.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Customer Support and Service Quality\n<\/h3>\n<p>\nSupport at WildRobin Casino is built around a clear and fast communication model where Live Chat and email play the central role. On the official Help Centre and About pages, we state that support is available 24\/7. This means players can raise questions about deposits, withdrawals, technical issues, bonuses, sportsbook matters, and account verification at any time of day. Live Chat is the main fast-response channel and is especially useful for urgent questions related to payments, bonuses, and account status. Email at support@wildrobin.com remains a stable channel for more detailed requests. Questions connected to personal data adjustments may also be routed through the KYC or finance flow. A public phone line is not highlighted as a primary support route on the main pages, so in practical terms our service model is centered on chat and email. In terms of service quality, WildRobin describes its support as responsive and qualified customer service. The team is presented as a group of specialists ready to handle gaming, technical, and financial issues. The Help Centre is also structured into dedicated categories such as Deposits, Withdrawals, Bonuses & Promotions, Sportsbook, Technical, General, and My Account & Verification. That structure helps route requests faster and reduces handling friction. Another important advantage is language coverage. The platform interface and content are available in English, Czech, German, Spanish, Finnish, French, Hungarian, Norwegian, Polish, Portuguese, Italian, Greek, Arabic, Slovenian, Slovak, Dutch, and Latvian. This makes the service feel more comfortable for a broad international audience. If the matter is urgent, Live Chat is usually the best route. If attachments, detailed explanations, or supporting information are needed, email tends to be more practical. Overall, our support model feels streamlined and functional: fast chat, a structured help centre, and reliable email communication.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact Channels\n<\/h4>\n<ul>\n            <li>• 24\/7 Live Chat for fast contact, email support for detailed communication, KYC\/finance routing for selected account-data issues, and no strongly promoted public phone line as a primary channel.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse Time and Service Quality\n<\/h4>\n<ul>\n            <li>• Live Chat is best for urgent bonus, deposit, and payout questions, while email is better for document-heavy cases; support is presented as qualified, responsive, and available around the clock.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage Availability\n<\/h4>\n<ul>\n            <li>• WildRobin supports a wide multilingual environment, including English, German, Spanish, French, Italian, Polish, Dutch, Arabic, and many more interface versions.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at WildRobin Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Loyalty Program, VIP Levels, and Rewards\n<\/h3>\n<p>\nThe loyalty structure at WildRobin Casino is built through two connected systems: the VIP Club and the internal Coins-and-Shop reward model. This makes our loyalty setup more flexible because players receive both status-based privileges and activity-based rewards. Entry into the ecosystem begins after registration, when bonuses, challenges, and coin collection become available. Coins are awarded for deposits, bets, and the completion of one-time, weekly casino, and weekly sports challenges. The current challenge pages show a rate of 5% of deposits in Coins and 1% of bets in Coins. Players can also earn additional Coins through tournaments and special tasks. Those Coins can then be spent in the Shop on bonus money, free spins, free bets, and similar rewards. For example, Bonus Money options currently range from A$8 to A$480, while Free Bets range from A$8 to A$80. This turns even regular platform activity into a visible sense of progression. Alongside that, our VIP Club introduces status progression through Level 2, Level 3, Level 4, and Level 5, with the standard account acting as the entry stage before VIP access is expanded. Level 2 focuses on on-site promotions and 24\/7 Live Chat access. Level 3 adds personalised offers, higher withdrawal limits, and cashback. Levels 4 and 5 extend those benefits with a personal VIP manager. The exact public thresholds for level progression are not openly displayed on the visible pages, so movement between levels is best understood as a result of overall activity, deposit history, and engagement with the platform. This model works well for both moderate users who mainly collect Coins and more active players who value status, limits, and tailored support.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Conditions\n<\/h4>\n<ul>\n            <li>• Register an account, remain eligible for promotions, use correct account and payment details, and stay active across casino, live casino, sportsbook, challenges, and tournaments.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVIP Levels and How Progression Works\n<\/h4>\n<ul>\n            <li>• Standard account is the starting point; Level 2 adds on-site promotions and 24\/7 Live Chat; Level 3 adds personalised offers, higher withdrawal limits, and cashback; Levels 4 and 5 add a personal VIP manager. Public progression thresholds are not openly shown and are generally linked to account activity and engagement.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAvailable Loyalty Rewards\n<\/h4>\n<ul>\n            <li>• Coins from deposits at 5%, Coins from bets at 1%, Bonus Money from A$8 to A$480, Free Bets from A$8 to A$80, Free Spins from 5 spins upward on selected titles, cashback from VIP Level 3, higher withdrawal limits from VIP Level 3, and personal VIP manager access from Levels 4 and 5.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Bonuses, Promotions, Game Offers, and Tournament Rewards\n<\/h3>\n<p>\nThe bonus system at WildRobin Casino is broad and extends far beyond the initial account activation stage. Our main entry offer is the Welcome Package worth up to A$5,500 and 200 free spins split across three bonus parts. The first stage provides 100% up to A$2,500 plus 50 free spins, the second gives 50% up to A$1,000 plus 100 free spins, and the third adds 100% up to A$2,000 plus 50 free spins. The minimum deposit for each stage is A$30, while the free-spin portions are tied to deposits of at least A$50 in the relevant stages. During active bonus play, the maximum casino bet is A$7.50, and the wagering is x35 on deposit plus bonus and x40 on free-spin winnings. After the welcome phase, activity continues through the Weekly Reload with 55 free spins from Monday to Thursday on deposits from A$30. Weekend play is supported by a 50% Weekend Reload up to A$1,125 plus 75 free spins. Cashback formats are also visible, including Daily Cashback of 15% up to A$600 and Live Cashback of 25% up to A$300. In the sportsbook, players can access a First Deposit Bonus of 100% up to A$150, a Weekly Reload of 50% up to A$900, a Sport Cashback of 10% up to A$750, an Accumulator Boost up to 100%, Boosted Odds, and the 2 Goals Ahead Early Payout feature. Tournaments add another entertainment layer, with the promotions page highlighting total campaign-style prize pools of up to A$7,500,000. Visible tournament formats include Gold Saloon Weekend, Gold Saloon Live, Slot of the Week, Monthly Race, and Drops & Wins. Challenges and the Coins system further strengthen the non-VIP reward structure. In the Shop, Coins can be exchanged for bonus money, free spins, and free bets, so regular gameplay and betting activity gain an extra reward channel. Seasonal and special events also appear through themed campaigns such as Egg Hunt and rotating event lobbies. Because of this, WildRobin Casino feels less like a one-bonus platform and more like a site with a living calendar of casino promotions, sportsbook offers, live rewards, and recurring tournament events.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCasino Bonus Offers\n<\/h4>\n<ul>\n            <li>• Welcome Package up to A$5,500 + 200 free spins in 3 stages; Weekly Reload with 55 free spins from A$30; Weekend Reload with 50% up to A$1,125 + 75 free spins; Daily Cashback 15% up to A$600; Live Cashback 25% up to A$300.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSportsbook Promotions\n<\/h4>\n<ul>\n            <li>• First Deposit Bonus 100% up to A$150; Weekly Reload 50% up to A$900; Sport Cashback 10% up to A$750; Accumulator Boost up to 100%; Boosted Odds; 2 Goals Ahead Early Payout.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournaments and Extra Reward Mechanics\n<\/h4>\n<ul>\n            <li>• Promotion-led tournament rewards reach up to A$7,500,000, while Coins earned through challenges and activity can be exchanged in the Shop for bonus money, free spins, and free bets.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Games, Live Titles, and Betting Markets\n<\/h3>\n<p>\nThe content lineup at WildRobin Casino covers several strong verticals, which makes the platform suitable both for classic casino players and for users who prefer sportsbook action. Inside the main casino lobby, we host thousands of titles across pokies, new releases, popular games, Megaways, instant games, table games, and jackpots. Pokies form the largest layer of the library and work well for both short sessions and longer play routines. Our table-game section combines blackjack, roulette, baccarat, poker, and other card-based or wheel-based formats. A separate jackpots area gathers slot titles linked to larger prize potential and dedicated jackpot categories. Instant games add faster formats for short and lightweight sessions. In live casino, we focus on real-time play with hosts, dealers, croupiers, and bankers. This includes live roulette, live blackjack, baccarat and dice, live poker, and live game shows. In the game-show category, visible titles include Money Time, Mega Wheel, Sweet Bonanza Candyland, Treasure Island, and Snakes & Ladders Live. Among live tables, players can also find formats such as Speed Roulette, PowerUP Roulette, Gold Saloon products, and high-limit blackjack. The content library is supported by providers that are clearly visible on official pages, including Pragmatic, Hacksaw, Imagine Live, and other developers. For betting, WildRobin also runs a full sportsbook with both prematch and live betting. Visible sports include football, tennis, table tennis, basketball, ice hockey, baseball, and American football. We also reference virtual sports and esports, including markets around CS2, LoL, and PGL. This turns WildRobin Casino into a combined gaming platform where spins, live tables, accumulators, and in-play bets can all exist in the same routine.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCasino Categories\n<\/h4>\n<ul>\n            <li>• Pokies, Megaways, table games, jackpots, instant games, and thousands of rotating titles across top, new, popular, and provider-based lobbies.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLive Casino\n<\/h4>\n<ul>\n            <li>• Live roulette, live blackjack, baccarat and dice, live poker, and live game shows including titles such as Money Time, Mega Wheel, Sweet Bonanza Candyland, and Treasure Island.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSportsbook and Betting Markets\n<\/h4>\n<ul>\n            <li>• Prematch betting, live betting, virtual sports, and esports coverage, with visible markets on football, tennis, table tennis, basketball, ice hockey, baseball, and American football.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Minimum and Maximum Betting Limits\n<\/h3>\n<p>\nAt WildRobin Casino, betting ranges depend on the game category, provider, and the exact title selected. Visible live pages show both low-entry formats for game shows and roulette as well as high-limit tables for players who prefer a larger betting scale. It is also important to remember that an active casino bonus applies a separate betting cap of A$7.50 per wager.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #B08152;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Roulette (Speed Roulette)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$40,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Game Shows (Money Time)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$9,200<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Game Shows (Mega Wheel)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$4,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>High-Limit Live Blackjack (Blackjack 77 - Ruby)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$100<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$10,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus-Active Casino Play<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Depends on game<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$7.50 cap<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWildRobin Casino Tournaments and Leaderboards: How to Join and Win\n<\/h3>\n<p>\nTournament play at WildRobin Casino is built around active campaign cards, each of which displays a prize pool, a minimum bet, and the time left until the event ends. This means participation usually begins by choosing a specific tournament and meeting its qualifying conditions. Visible formats include Gold Saloon Weekend, Gold Saloon Live, Slot of the Week, Monthly Race, Drops & Wins, and selected sports competitions. For players, the minimum bet is one of the most important indicators because it determines which spins or wagers count toward tournament activity. In slot and live-casino tournaments, qualifying play is generally tied to selected games, while sports formats depend on qualifying bets within the listed event scope. Leaderboard movement is not only about betting, but also about completing activity within the valid campaign window. Players can track progress through the tournament card, countdown timer, and the detailed event page. When several weekly or monthly events run at once, activity can be split across different campaigns while still supporting Coins collection through challenges. In practical terms, points and leaderboard position depend on the logic of the individual tournament, but the core factors usually include qualifying spins or bets, the required minimum bet, and the total valid volume of activity within the event. Once the tournament ends, prizes are distributed according to the final leaderboard, and the reward format may vary between cash-style prize pools and Coin-based rewards. To improve the chance of finishing higher, it is smart to review the minimum bet, the list of qualifying games or markets, and the exact end time in advance.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow Progress Is Counted\n<\/h4>\n<ul>\n            <li>• Leaderboard progress is usually shaped by qualifying spins or bets, the minimum required stake, valid activity on the selected games or markets, and the tournament time window.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to Track Your Position\n<\/h4>\n<ul>\n            <li>• Follow the tournament card, countdown timer, and event details page to monitor your active campaign and overall standing.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow Rewards Are Claimed\n<\/h4>\n<ul>\n            <li>• Final rewards are distributed after the event ends according to the final leaderboard, with prizes typically shown as prize-pool payouts or Coin-based rewards depending on the campaign.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does WildRobin Casino offer demo play?",
+                            "answer": "Yes. A number of slots and selected games are available in demo mode, which helps users check the mechanics and interface before switching to real-money play."
+                        },
+                        {
+                            "title": "Can more than one bonus be active at the same time?",
+                            "answer": "No. The Welcome Package states that it cannot be combined with other bonuses at the same time, and activating another offer during an active bonus may void the current bonus balance."
+                        },
+                        {
+                            "title": "Can I cancel an active bonus?",
+                            "answer": "Yes. An active bonus can be cancelled through the profile or with support assistance, but the current bonus balance is voided when cancellation is completed."
+                        },
+                        {
+                            "title": "Can personal account details be changed later?",
+                            "answer": "Yes, but changes to sensitive account data may require assistance from the finance or KYC side rather than a simple self-edit flow."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
